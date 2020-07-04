@@ -9,17 +9,19 @@ Store the data in .csv format make the scraper such that in case of error the pr
 Try to make it as efficient as possible. Check for exceptions and Do not scrape incomplete information
 
 1.	Go to Drugs A-Z on drugs.com
-<img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/1.png" width = "100">
+<img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/1.png" width = "500">
  
 2.	Select natural products on Drugs A-Z dropdown
+
+<img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/2.png" width = "500">
  
 3.	Scrape the following information about all the natural products:
-•	Description
-•	Common Names
-•	Uses
-•	Precautions
+ *	 Description
+ *	 Common Names
+ *	 Uses
+ *	 Precautions
  
-
+<img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/3.png" width = "500">
 
 
 4.	For Description: Scrape the “what is” section:
