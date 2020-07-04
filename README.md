@@ -9,7 +9,7 @@ Store the data in .csv format make the scraper such that in case of error the pr
 Try to make it as efficient as possible. Check for exceptions and Do not scrape incomplete information
 
 1.	Go to Drugs A-Z on drugs.com
-<img src="https://github.com/m0-k1/Text-Summarization/blob/master/images/nlp.png">
+<img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/1.png" width = "100">
  
 2.	Select natural products on Drugs A-Z dropdown
  
