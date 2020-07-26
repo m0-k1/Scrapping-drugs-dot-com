@@ -4,9 +4,7 @@
 
 #### Scrape each of the Natural Product Present on http://www.drugs.com
 
-The task is to scrape each natural product present on drugs.com for the following information: 
-Store the data in .csv format make the scraper such that in case of error the progress is not lost e.g. use csv writer such that each drug’s information gets written in the excel sheet as it is scraped.
-Try to make it as efficient as possible. Check for exceptions and Do not scrape incomplete information
+## Things To Scrape from the Site
 
 1.	Go to Drugs A-Z on drugs.com
 <img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/1.png" width = "500">
@@ -24,7 +22,7 @@ Try to make it as efficient as possible. Check for exceptions and Do not scrape 
 <img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/3.png" width = "500">
 
 
-4.	For Description: Scrape the “what is” section:
+4.	For Description: Scrape the "what is" section:
 
 <img src="https://github.com/m0-k1/Scrapping-drugs-dot-com/blob/master/images/4.png" width = "500">
  
